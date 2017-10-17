@@ -1,1 +1,1 @@
-# beijingnews
+# beijingnews:其中主要实现的功能有新闻客户端，购物商城，购物车等;
