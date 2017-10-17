@@ -1,0 +1,7 @@
+#Sun Sep 24 12:24:02 CST 2017
+base.0=D\:\\WorkSpace\\AndroidStuido\\MyApp\\beijingnews\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_04cbc1b820b00848bf22baa2c13d94d677e4c0b5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\WorkSpace\\AndroidStuido\\MyApp\\beijingnews\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a4d9ba7db09c07fd5d4eebe51ce4ac8128ba072f\\classes.dex
+base.1=D\:\\WorkSpace\\AndroidStuido\\MyApp\\beijingnews\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a4d9ba7db09c07fd5d4eebe51ce4ac8128ba072f
+file.0=D\:\\WorkSpace\\AndroidStuido\\MyApp\\beijingnews\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_04cbc1b820b00848bf22baa2c13d94d677e4c0b5\\classes.dex
